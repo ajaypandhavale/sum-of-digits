@@ -19,6 +19,9 @@ public class SumOfDigits {
 		}
 		System.out.println("The sum of digits is "+sum);
 
+		System.out.println("HAVE FUN!!! JUST CHAEKING THAT CODE IS UPDATED OR NOT USING BRANCH");
+
+
 	}
 
 }
